@@ -1,0 +1,22 @@
+{
+  "name": "lesson-npm-hw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TanushaVeraksa/lesson-npm-hw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TanushaVeraksa/lesson-npm-hw/issues"
+  },
+  "homepage": "https://github.com/TanushaVeraksa/lesson-npm-hw#readme",
+  "dependencies": {
+    "lodash": "^4.17.19"
+  }
+}
